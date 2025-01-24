@@ -6,5 +6,5 @@ python_obj ={
     "age": 7
 }
 
-natija=json.dump(python_obj)
+natija = json.dumps(python_obj)
 print(natija)
